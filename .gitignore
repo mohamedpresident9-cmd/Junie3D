@@ -1,0 +1,8 @@
+/target
+.idea/
+.junie/plans/
+.junie/sessions/
+installer/installer/
+*.exe
+*.msi
+*.tar.gz
